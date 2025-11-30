@@ -8,7 +8,7 @@
   <a href="https://github.com/amirrecon">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/amirrecon?style=for-the-badge&logo=github">
   </a>
-  <a href="https://t.me/CodePhreak">
+  <a href="https://t.me/codephrreak">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@CodePhreak-27A7E7?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a href="#contact">
